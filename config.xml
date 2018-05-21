@@ -16,5 +16,7 @@
   <author href="https://github.com/CodingCarlos" email="hola@codingcarlos.com">
       Carlos Hernandez
   </author>
+    
+  <plugin name="cordova-plugin-camera" spec="4.0.3" />
 
 </widget>
